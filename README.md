@@ -8,7 +8,7 @@ used to work but failed and i confused myself..
 #### Languages:
 Typescript, JavaScript, & CSS
 #### Extras:
-Nextjs, Sanity, Shadcn, Radix-ui, React OAuth, React, Vitejs
+Nextjs, Sanity, Shadcn, Radix-ui, React OAuth, React, Vitejs, & TailwindCSS
 
 #### Supposedly: 
 was going to have a login feature to login through google, for you page would
